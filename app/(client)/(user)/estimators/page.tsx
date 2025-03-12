@@ -1,3 +1,4 @@
+"use client";
 import React, { ReactNode } from "react";
 import { Card, CardContent } from "@/components/ui/card";
 import PaintEstimator from "@/components/calculators/PaintEstimator";
