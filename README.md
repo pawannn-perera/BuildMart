@@ -7,7 +7,7 @@
 - **Shopping Cart**: Real-time cart management with Zustand state management
 - **Favorites System**: Save and manage favorite products
 - **Order Tracking**: Track order history and status
-- **Estimation Tools**:
+- **ML Enhanced Estimation Tools**:
   - Paint Calculator: Estimate paint requirements based on wall dimensions
   - Tile Calculator: Calculate tile quantities needed for your space
 - **Responsive Design**: Mobile-first approach with Tailwind CSS
